@@ -5,6 +5,7 @@ from PyQt4.QtGui import *
 from PyQt4.QtCore import *
 import sys
 
+
 def main():
     app = QApplication(sys.argv)
     table = QTableWidget()
